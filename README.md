@@ -221,13 +221,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 SilentTrace is designed for educational and privacy protection purposes. Users are responsible for complying with local laws regarding audio monitoring and privacy. The tool should only be used to monitor environments where you have explicit permission to do so.
 
-## 🎯 Future Enhancements
-
-- [ ] PDF/JSON detection reports
-- [ ] Telegram/Discord webhook notifications  
-- [ ] Machine learning signal classification
-- [ ] Mobile app companion
-- [ ] Additional audio backend support
-- [ ] Real-time spectrogram visualization
-- [ ] GPS location tagging for detections
-- [ ] Multi-device coordination
